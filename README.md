@@ -1,6 +1,6 @@
 #  About Me:
 I’m a full-stack developer passionate about building impactful web apps using the MERN stack.<br><br>
-Currently diving into blockchain and exploring its potential for innovative solutions.<br><br>
+Currently diving into blockchain .<br><br>
  <br><br>🌏 Based in Nepal, I’m always excited to connect with like-minded tech enthusiasts and professionals. <br>       Let’s create something amazing together! <br><br>
 
 
