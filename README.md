@@ -2,7 +2,7 @@
 I’m a full-stack developer passionate about building impactful web apps using the MERN stack.<br><br>
 Currently diving into blockchain and exploring its potential for innovative solutions.<br><br>
  What Drives Me:<br>
-    I’m passionate about technology’s ability to make life easier and more connected.<br>I believe in creating tools that matter.<br><br>💻 My Skills Include:<br>Frontend:  HTML, CSS, React.js, Tailwind CSS.<br>Backend: Node.js, Express.js, C#, Java and database management with MySQL and MongoDB.<br><br>🎯 Goals:<br>Learn, experiment, and grow as a developer every day.<br>Collaborate on meaningful open-source and community-driven projects.<br><br>🌏 Based in Nepal, I’m always excited to connect with like-minded tech enthusiasts and professionals. <br>       Let’s create something amazing together! 🚀<br><br>
+    I’m passionate about technology’s ability to make life easier and more connected.<br>I believe in creating tools that matter.<br><br> Goals:<br>Learn, experiment, and grow as a developer every day.<br>Collaborate on meaningful open-source and community-driven projects.<br><br>🌏 Based in Nepal, I’m always excited to connect with like-minded tech enthusiasts and professionals. <br>       Let’s create something amazing together! <br><br>
 
 
 ## 🌐 Connect with me! 💻  Code on GitHub | Life on Instagram | Thoughts on X
