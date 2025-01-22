@@ -1,6 +1,6 @@
 #  About Me:
 I’m a full-stack developer passionate about building impactful web apps.<br><br>
-Currently diving into blockchain .<br>
+
  <br>🌏 Based in Nepal, I’m always excited to connect with like-minded tech enthusiasts and professionals. <br>  Let’s create something amazing together! <br><br>
 
 # 💻 Tech Stack:
